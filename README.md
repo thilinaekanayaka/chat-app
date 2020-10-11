@@ -1,4 +1,4 @@
-# Chat App Frontend
+# Chat App Server
 
 ### Cloning and setup
 
